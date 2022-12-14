@@ -830,7 +830,7 @@
     "fontSize": {
       "10xl": {
         "type": "fontSizes",
-        "value": "roundTo({semantic.fontSize.9xl} * {semantic.fontSize._scale}, 0)"
+        "value": "140"
       },
       "2xl": {
         "type": "fontSizes",
